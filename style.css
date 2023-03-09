@@ -92,3 +92,19 @@
     text-align: center;
     background-color: #D9911E;
 }
+.portafolio{
+    background-color: #D95D1E;
+    color: black;
+    text-align: center;
+}
+
+.imgpor{
+    margin-right: 25%;
+    width: 200px;
+    height: 200px;
+}
+.contactos{
+    color: black;
+   
+    text-align: center;
+}
